@@ -49,7 +49,7 @@ const config = {
         "alt": "Gourmet French dishes plated with care"
       },
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/nak7f8p5xnrmr0cy0k0af1nb2c.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-FATHER'SDAY.jpg",
         "alt": "Wine glasses with city lights in the background"
       }
     ],
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1778687021552_0",
+      "id": "q_auto_1778687874911_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778687021552_1",
+      "id": "q_auto_1778687874911_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778687021552_2",
+      "id": "q_auto_1778687874911_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
