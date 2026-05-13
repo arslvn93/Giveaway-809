@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$300 Luxury Dinner for Two</span> with <span class='highlight'>Toronto Skyline Views</span> this Father’s Day!",
     "heroSubheadline": "Treat the important man in your life. Enjoy fine French dining at a long loved spot. Dress sharp. Entry is fast and free. Draw on June 21.",
-    "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/vcmfa3m7vdrmy0cy0jz9r801kc.jpg",
+    "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/veronika-zykova/marketing-requests/giveaway-campaign/1778195630950-scaramouche.jpg",
     "promotionDates": "Enter May 18, 2026 to June 21, 2026. Entries close June 21 at 11:59 PM ET. Winner picked June 21.",
     "endDate": "2026-06-22T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#D4AF37",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Father’s Day French Dining Experience</strong> has been received. We will draw the winner on June 21 and contact them by email. Good luck!",
-    "socialPromptText": "Watch your inbox on June 21. We will also share updates on Instagram and Facebook."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -124,8 +119,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -162,6 +155,8 @@ const config = {
       "Please dress well for an elegant night out",
       "Follow Veronika Zykova on Instagram or Facebook for updates"
     ],
+    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random draw tool. Every entry has the same chance. One entry per person keeps it fair."
@@ -182,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1778687021552_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -204,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1778687021552_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -230,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1778687021552_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -256,6 +251,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the <strong>Father’s Day French Dining Experience</strong> has been received. We will draw the winner on June 21 and contact them by email. Good luck!",
+    "socialPromptText": "Watch your inbox on June 21. We will also share updates on Instagram and Facebook."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/VeronikaRealEstate",
