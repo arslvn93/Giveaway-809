@@ -5,8 +5,8 @@ const config = {
     "privacyPolicyLink": "https://docs.google.com/document/d/e/2PACX-1vTjKmNELnVNP0k9KCchoXSN02kCMm4wjoxhmZ_z-mZER-GHCDOpI3YkrW4PHiW0LAjIOWLIoyCQnuJq/pub"
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>$300 Luxury Dinner for Two</span> with <span class='highlight'>Toronto Skyline Views</span> this Father’s Day!",
-    "heroSubheadline": "Treat the important man in your life. Enjoy fine French dining at a long loved spot. Dress sharp. Entry is fast and free. Draw on June 21.",
+    "heroHeadline": "Win a <span class='highlight'>$300 Luxury Dinner for Two</span> with <span class='highlight'>Toronto Skyline Views</span> at Scaramouche this Father’s Day!",
+    "heroSubheadline": "Treat the important man in your life. Enjoy fine French dining at Scaramouche. Dress sharp. Entry is fast and free. Draw on June 21.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/veronika-zykova/marketing-requests/giveaway-campaign/1778195630950-scaramouche.jpg",
     "promotionDates": "Enter May 18, 2026 to June 21, 2026. Entries close June 21 at 11:59 PM ET. Winner picked June 21.",
     "endDate": "2026-06-22T03:59:00.000Z",
@@ -14,7 +14,7 @@ const config = {
     "entryFormCtaText": "Enter to Win Dinner!",
     "name": "The Father’s Day Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Father’s Day French Dining Experience</strong> has been received. We will draw the winner on June 21 and contact them by email. Good luck!",
+    "successModalMainMessage": "Your entry for the <strong>Father’s Day Dining Experience</strong> at Scaramouche has been received. We will draw the winner on June 21 and contact them by email. Good luck!",
     "successModalEmailPrompt": "Watch your inbox on June 21. We will also share updates on Instagram and Facebook."
   },
   "settings": {
@@ -56,7 +56,7 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-utensils",
-        "text": "$300 dining credit at a top French restaurant in Toronto"
+        "text": "$300 dining credit at Scaramouche in Toronto"
       },
       {
         "icon": "fas fa-city",
@@ -75,9 +75,9 @@ const config = {
         "text": "Flexible reservation date, subject to availability"
       }
     ],
-    "name": "Father’s Day French Dining Experience for Two",
+    "name": "Father’s Day Dining Experience for Two at Scaramouche",
     "value": "$300 Value",
-    "description": "Picture this: soft light, city lights, and a table with a view. Fresh French dishes. Perfect wine pairings if you choose. Calm talk. Big smiles. This is a special night out at a beloved Toronto restaurant with stunning skyline views. You bring the important man in your life. We bring the luxury.",
+    "description": "Picture this: soft light, city lights, and a table with a view at Scaramouche. Fresh French dishes. Perfect wine pairings if you choose. Calm talk. Big smiles. This is a special night out at a beloved Toronto restaurant with stunning skyline views. You bring the important man in your life. We bring the luxury.",
     "limitedTimeOfferText": "Limited Father’s Day Giveaway, Ends June 21!",
     "ctaButtonText": "I Want This Dinner!"
   },
@@ -130,7 +130,7 @@ const config = {
       },
       {
         "q": "What is the prize?",
-        "a": "A $300 dining credit for a high end French restaurant with Toronto skyline views. Use it for food and drink per the restaurant’s rules."
+        "a": "A $300 dining credit for at Scaramouche restaurant with Toronto skyline views. Use it for food and drink per the restaurant’s rules."
       },
       {
         "q": "Is alcohol included?",
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1779384531744_0",
+      "id": "q_auto_1779391355942_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779384531744_1",
+      "id": "q_auto_1779391355942_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779384531744_2",
+      "id": "q_auto_1779391355942_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -260,7 +260,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Father’s Day French Dining Experience</strong> has been received. We will draw the winner on June 21 and contact them by email. Good luck!",
+    "mainMessage": "Your entry for the <strong>Father’s Day French Dining Experience</strong> at Scaramouche has been received. We will draw the winner on June 21 and contact them by email. Good luck!",
     "socialPromptText": "Watch your inbox on June 21. We will also share updates on Instagram and Facebook."
   },
   "footerContact": {
