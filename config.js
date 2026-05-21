@@ -85,7 +85,7 @@ const config = {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Follow me on Instagram",
+        "title": "Follow us on Instagram",
         "description": "Follow me @veronikatherealtor"
       },
       {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1778687908167_0",
+      "id": "q_auto_1779384531744_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778687908167_1",
+      "id": "q_auto_1779384531744_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778687908167_2",
+      "id": "q_auto_1779384531744_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
