@@ -130,7 +130,7 @@ const config = {
       },
       {
         "q": "What is the prize?",
-        "a": "A $300 dining credit for at Scaramouche restaurant with Toronto skyline views. Use it for food and drink per the restaurant’s rules."
+        "a": "A $300 dining credit at Scaramouche restaurant with Toronto skyline views. Use it for food and drink per the restaurant’s rules."
       },
       {
         "q": "Is alcohol included?",
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1779391355942_0",
+      "id": "q_auto_1779391421537_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779391355942_1",
+      "id": "q_auto_1779391421537_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779391355942_2",
+      "id": "q_auto_1779391421537_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
