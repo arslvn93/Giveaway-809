@@ -31,7 +31,7 @@ const config = {
     "facebookPixelId": "1167552198570751",
     "turnstileSiteKey": "",
     "salesGeniusAppApi": "api_256fff3c9a1e709aa8b2e8c6732b6671",
-    "followUpBossEmail": "",
+    "followUpBossEmail": "veronika.zykova@followupboss.me",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1779391997025_0",
+      "id": "q_auto_1779393152501_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779391997025_1",
+      "id": "q_auto_1779393152501_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779391997025_2",
+      "id": "q_auto_1779393152501_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
